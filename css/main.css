@@ -1,0 +1,90 @@
+h1 {
+padding-top: .6em;
+padding-bottom: .6em;
+border-top: .9em solid #380C38;
+border-bottom: .09em solid #787678;
+font-family: constantine;
+font-size: 3em;
+
+}
+
+a {
+color: #59555A;
+font-size: 12px;
+padding-left: 1em;
+padding-right: 1em;
+font-family: constantine;
+}
+
+#menu {
+  padding-top: 0;
+  padding-bottom: 0;
+  font-family: constantine;
+}
+a:hover,
+a:focus {
+  background-color: #380C38;
+  padding-top: 0em;
+  padding-bottom: 0em;
+
+}
+
+.top {
+  width: 100%;
+  background-color: #000 !important;
+  padding-top: 0em;
+  padding-bottom: 0em;
+  border-top: .25em solid #787678;
+}
+
+.pic {
+  width: 100%;
+  background-color: #000;
+  border-top: .09em solid #380C38;
+  border-bottom: 1em solid #ffffff;
+  border-top: .22em solid #787678;
+  padding-right: 0em;
+}
+
+#aboutme {
+  color: #ffffff;
+  background-color: #787678;
+  font-size: 10px;
+  padding-top: 3em;
+  padding-bottom: 3em;
+  padding-right: 3em;
+  border-bottom: 1em solid #ffffff;
+
+}
+
+h2 {
+    font-family: constantine;
+    font-size: 20px;
+}
+
+p {
+  padding right: 3em;
+  font-family: constantina;
+}
+
+
+
+
+.container {
+  width: 100%;
+  background-color: #000;
+  padding-top: 3em;
+  padding-bottom: 12em;
+  padding-right: 1em;
+  padding-left: 1em;
+  border-top: .09em solid #380C38;
+
+}
+
+
+h3 {
+ font-size: 15px;
+ font-family: constantine;
+ border-bottom: 2em solid #380C38;
+
+}

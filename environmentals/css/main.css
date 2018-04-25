@@ -1,0 +1,47 @@
+body {
+  background-color: #000
+}
+
+.photo {
+  border: 3px solid #333;
+
+}
+h1 {
+border-top: .9em solid #380C38;
+padding-top: .3em;
+padding-bottom: .3em;
+background-color: #fff;
+font-family: constantine;
+font-size: 3em;
+}
+
+.first {
+  width: 100%;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.second {
+  width: 100%;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+
+}
+
+.third {
+  width: 100%;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+}
+
+.fourth {
+  width: 100%;
+  padding-top: 2em;
+  padding-bottom: 2em;
+}

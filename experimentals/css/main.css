@@ -22,3 +22,28 @@ font-size: 3em;
   padding-left: 1em;
   padding-right: 1em;
 }
+
+.back-to-top {
+  color: white;
+  text-align: center;
+  padding-top: 4em;
+  border-bottom: .5em solid #380C38;
+  font-family: constantina;
+}
+
+a:hover,
+a:focus {
+  background-color: #380C38;
+padding-top: 0em;
+padding-bottom: 0em;
+text-decoration: none;
+color: #ffffff;
+}
+
+a {
+color: #59555A;
+font-size: 12px;
+padding-left: 1em;
+padding-right: 1em;
+font-family: constantine;
+}

@@ -17,6 +17,7 @@ text-align: center;
 h2 {
   font-family: constantine;
   font-size: .7em;
+  text-align: center;
 
 }
 
@@ -132,7 +133,17 @@ p {
 h4 {
  font-size: 15px;
  font-family: constantine;
- border-bottom: 2em solid #380C38;
+ border-bottom: .5em solid #787678;
  text-align: center;
+ padding-top: .5em;
+ padding-bottom: .5em;
+}
+
+.back-to-top {
+  color:#fff;
+  text-align: center;
+  border-bottom: 2em solid #380C38;
+
+
 
 }

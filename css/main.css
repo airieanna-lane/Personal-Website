@@ -1,10 +1,22 @@
+
+#header {
+  padding-top: .6em;
+  padding-bottom: .6em;
+  border-top: .9em solid #380C38;
+  border-bottom: .09em solid #787678;
+}
+
 h1 {
-padding-top: .6em;
-padding-bottom: .6em;
-border-top: .9em solid #380C38;
-border-bottom: .09em solid #787678;
 font-family: constantine;
 font-size: 3em;
+text-align: center;
+
+
+}
+
+h2 {
+  font-family: constantine;
+  font-size: .7em;
 
 }
 
@@ -17,8 +29,9 @@ font-family: constantine;
 }
 
 #menu {
-  padding-top: 0;
-  padding-bottom: 0;
+  border-top: .2em solid #787678;
+  padding-top: .5em;
+  padding-bottom: .5em;
   font-family: constantine;
 }
 a:hover,
@@ -61,10 +74,12 @@ a:focus {
 
 }
 
-h2 {
+h3 {
     font-family: constantine;
     font-size: 20px;
     padding-bottom: 1em;
+    color:#380C38;
+
 }
 
 p {
@@ -114,9 +129,10 @@ p {
 }
 
 
-h3 {
+h4 {
  font-size: 15px;
  font-family: constantine;
  border-bottom: 2em solid #380C38;
+ text-align: center;
 
 }

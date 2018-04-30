@@ -32,6 +32,13 @@ font-size: 3em;
   padding-right: 1em;
 }
 
+footer {
+font-size: 10px;
+font-family: constantine;
+padding-top: .3em;
+padding-bottom: .3em;
+}
+
 .back-to-top {
   color: #380C38;
   text-align: center;

@@ -55,6 +55,12 @@ font-size: 3em;
   padding-bottom: 2em;
 }
 
+footer {
+font-size: 10px;
+font-family: constantine;
+padding-top: .3em;
+padding-bottom: .3em;
+}
 
 .back-to-top {
   color: #380C38 ;
